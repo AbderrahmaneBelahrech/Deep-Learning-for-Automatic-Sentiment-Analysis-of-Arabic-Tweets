@@ -1,7 +1,8 @@
 # Deep Learning for Automatic Sentiment Analysis of Arabic Tweets
 
 ### 
-<span style="color💙;">Pour une meilleure appréhension des concepts du machine/deep learning, de l'analyse des sentiments, du traitement du langage naturel, entre autres, je vous recommande vivement de consulter ce PDF.</span> [Téléchargez le PDF](Deep_learning_pour_l_analyse_automatique_du_sentiment_des_tweets_arabes.pdf)
+Pour une meilleure appréhension des concepts du machine/deep learning, de l'analyse des sentiments, du traitement du langage naturel, entre autres, je vous recommande vivement de consulter ce PDF.
+[Téléchargez le PDF](Deep_learning_pour_l_analyse_automatique_du_sentiment_des_tweets_arabes.pdf)
 
 ## Project Overview
 
