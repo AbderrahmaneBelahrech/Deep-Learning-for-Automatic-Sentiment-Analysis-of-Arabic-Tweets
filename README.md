@@ -2,11 +2,9 @@
 
 ### 
 
-For a better understanding of concepts in machine/deep learning, sentiment analysis, natural language processing, among others, I highly recommend consulting this PDF.
-[Téléchargez le PDF](Deep_learning_pour_l_analyse_automatique_du_sentiment_des_tweets_arabes.pdf)
-<p style="color:blue;">For a better understanding of concepts in machine/deep learning, sentiment analysis, natural language processing, among others, I highly recommend consulting this PDF.</p>
+<h1> For a better understanding of concepts in machine/deep learning, sentiment analysis, natural language processing, among others, I highly recommend consulting this PDF.
+[Téléchargez le PDF](Deep_learning_pour_l_analyse_automatique_du_sentiment_des_tweets_arabes.pdf) </h1>
 
-[Téléchargez le PDF](Deep_learning_pour_l_analyse_automatique_du_sentiment_des_tweets_arabes.pdf)
 
 ## Project Overview
 
